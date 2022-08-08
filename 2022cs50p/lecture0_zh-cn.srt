@@ -35,17 +35,17 @@ Let me go ahead here and open up my computer
 
 8
 00:00:40,250 --> 00:00:43,220
-上面有一个叫做 Visual Studio Code 或者 VS 的程序
+上面有一个叫做 Visual Studio Code 或者 VS Code 的程序，
 and on it, a program called Visual Studio Code or VS
 
 9
 00:00:43,220 --> 00:00:45,650
-代码，这只是一个非常流行的程序现在
+这是一个非常流行的程序，用来
 Code, which is just a very popular program nowadays
 
 10
 00:00:45,650 --> 00:00:47,220
-实际编写代码。
+编写实际的代码。
 for actually writing code.
 
 11
@@ -85,7 +85,7 @@ but really, at the end of the day, all you need is a program for writing text
 
 18
 00:01:04,160 --> 00:01:06,170
-因为代码就是短信。
+因为代码就是文本。
 because that's what code is-- text.
 
 19
@@ -120,7 +120,7 @@ At the bottom of my screen is a so-called terminal window
 
 25
 00:01:20,060 --> 00:01:25,310
-这是一个命令行接口或 CLI 接口
+这是一个命令行界面或 CLI 界面
 and this is a command line interface or CLI interface to the underlying
 
 26
@@ -130,7 +130,7 @@ computer, be it your Mac or your PC or even some server in the cloud.
 
 27
 00:01:29,340 --> 00:01:32,240
-我现在要写的就是“代码”然后
+我现在要写的就是“代码”，然后
 And what I'm going to do here is literally write, "code" and then
 
 28
@@ -145,7 +145,7 @@ As we'll soon see, any program that you write in Python generally has a file
 
 30
 00:01:40,310 --> 00:01:44,210
-以. py 结尾的名称，向计算机表明它确实是一个程序
+以 .py 结尾的名称，向计算机表明它确实是一个程序
 name that ends in .py to indicate to the computer that it's indeed a program
 
 31
@@ -170,7 +170,7 @@ and then just a tab that reminds me of the name of this file Hello.py.
 
 35
 00:01:55,730 --> 00:01:58,370
-我对巨蟒一无所知
+我对 Python 一无所知
 And without even knowing much Python, I'm
 
 36
@@ -180,7 +180,6 @@ going to write my very first program here as follows--
 
 37
 00:02:00,770 --> 00:02:02,120
-Print (“ hello，world”)。
 print("hello,world").
 
 38
@@ -215,7 +214,7 @@ odds are you can guess, infer what this simple program is going to do.
 
 44
 00:02:25,610 --> 00:02:28,250
-而且只有一行。 print (“ hello，world”)。
+而且只有一行。 print("hello,world")。
 And it's only one line. print("hello,world").
 
 45
